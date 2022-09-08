@@ -1,5 +1,5 @@
 {
-  "name": "demo-bower",
+  "name": "bower_ec",
   "version": "1.0.1",
   "authors": [
     "Bach Tung <bachtung144007@gmail.com>"
@@ -10,7 +10,7 @@
     "fonticons"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/bachtung144/demo-bower.git",
+  "homepage": "https://github.com/bachtung144/bower_ec.git",
   "ignore": [
     "README.md"
   ]
